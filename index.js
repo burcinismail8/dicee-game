@@ -1,5 +1,5 @@
-let randomNumber1 = Math.floor(Math.random() * 5);
-let randomNumber2 = Math.floor(Math.random() * 5);
+let randomNumber1 = Math.floor(Math.random() * 6);
+let randomNumber2 = Math.floor(Math.random() * 6);
 
 randomNumber1 += 1;
 randomNumber2 += 1;
